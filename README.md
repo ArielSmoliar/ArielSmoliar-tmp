@@ -15,10 +15,10 @@ Satellite imagery AI for agriculture and insurance. Translated deep learning res
 
 > [SpaceNews coverage](https://spacenews.com/planetwatchers-markets/) · [Planet.com: Satellite data and AI in agriculture insurance](https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/)
 
-### Meta — Product Leader
+### Meta - Product Leader
 Led the messaging developer platform generating $B+ in revenue opportunity across third-party APIs and Ads Manager. Built and shipped LLM-based products at scale.
 
-### Sumo Logic & AppDynamics — Product Leader
+### Sumo Logic & AppDynamics - Product Leader
 Built ML-powered observability and APM products used by engineering teams at scale.
 
 ---
